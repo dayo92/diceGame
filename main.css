@@ -39,9 +39,20 @@ body {
     font-weight: 400;
 }
 
-.btn {
+#btn {
     font-size: 40px;
     margin-top: 20px;
     background: none;
     border: none;
+}
+
+#reset {
+    font-size: 40px;
+    margin-top: 20px;
+    border: none;
+    background: none;
+}
+
+img {
+    visibility: hidden;
 }
